@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! https://emojis.slackmojis.com/emojis/images/1643515297/13171/meow_wave.gif?1643515297
 
-I'm Fahim, a Computer Operator from Dhaka, on a mission to become a Software Developer. I work with data, documents, and now — code.
+I'm [**Fahim**](https://fahim-al-munna.lovable.app), a Computer Operator from Dhaka, on a mission to become a Software Developer. I work with data, documents, and now — code.
 
 - 🌱 I’m currently learning programming 
 
