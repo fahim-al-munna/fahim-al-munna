@@ -1,5 +1,6 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515297/13171/meow_wave.gif" width="30">
+### Hi there! <img scr="https://emojis.slackmojis.com/emojis/images/1643514747/7550/pikachu_wave.gif" width="30">
 
+<!-- img src="https://emojis.slackmojis.com/emojis/images/1643515297/13171/meow_wave.gif" width="30" -->
 I'm [**Fahim**](https://fahim-al-munna.lovable.app), I work with data, documents, and now — code.
 
 ### Currently
